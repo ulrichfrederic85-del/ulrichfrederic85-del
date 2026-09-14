@@ -12,7 +12,9 @@ Ruby on Rails · JavaScript · TypeScript · Node.js · PostgreSQL · Git
 
 Côté IA : intégration d'APIs de LLM (OpenAI, Anthropic), agents conversationnels.
 
-### Projets en cours
+### Projets
+
+**[myweddoo.ch](https://myweddoo.ch)** · sites de mariage sur mesure — produit en ligne, studio à Sierre
 
 **barman.crew** · SaaS de commande conversationnelle par IA pour les bars
 
@@ -20,11 +22,9 @@ Côté IA : intégration d'APIs de LLM (OpenAI, Anthropic), agents conversationn
 
 **djtips.crew** · demandes de morceaux et pourboires par QR code pour les DJs
 
-**myweddoo** · sites de mariage personnalisés
-
 **Kitatoo** · mise en relation entre tatoueurs et clients, projet final du bootcamp
 
-La plupart de ces projets sont en développement dans des dépôts privés.
+Le code de ces projets est en dépôts privés.
 
 ### En formation
 
